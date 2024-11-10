@@ -1,0 +1,17 @@
+
+    #facebook-posts-container {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+    .post {
+        border: 1px solid #ddd;
+        padding: 10px;
+        border-radius: 5px;
+        background-color: #f9f9f9;
+    }
+    .post img {
+        margin-top: 10px;
+        border-radius: 5px;
+    }
+
